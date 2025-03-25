@@ -1,1 +1,1 @@
-# core_ATLASextractConnectedComponentsInfo
+# core_extractConnectedComponentsInfo
